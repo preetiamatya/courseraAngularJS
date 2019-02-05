@@ -1,0 +1,1 @@
+This project consists of courses from Coursera Front-End JavaScript Frameworks: Angular
